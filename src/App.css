@@ -1,0 +1,191 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*
+ @media print {
+ 
+  body {
+    background-color: 
+}
+
+
+.myClass {
+  color: red !important;
+} 
+*/
+
+.headImg {
+  width: 145px;
+   height: 30px;
+   margin-top:8px;
+}
+
+.headTitle {
+  color: #f6f6f6 ;
+  font-size:9px;
+}
+
+.headBtn1 {
+  background: #232733;
+   color: white;
+   font-Size:9px;
+}
+
+.headBtn2 {
+  background: #ff6633;
+  border:10px;
+  color: white;
+  font-Size:9px;
+  height:25px;
+
+}
+.tableCol1 {
+  width: 0px;
+   height: 850px;
+    margin-Left: 200px; 
+}
+
+.col1Div {
+  background: #252935;
+   width: 120px;
+     border-radius:9px;
+}
+.col1ul {
+  text-align:left;
+}
+.col1span1 {
+  color: #f6f6f6;
+  font-size: 10px;
+
+}
+
+.col1span2 {
+  background: #ff6633;
+  color: white;
+  font-size:8px;
+  border:0px ;
+  border-radius:12px;
+  outline: none !important;
+}
+
+.col1span3 {
+  color: #5db0c1 ;
+   font-size: 10px;
+   cursor:pointer;
+}
+ 
+.tableCol2 {
+  background: #f6f6f6;
+   width: 550px;
+    /* height: 750px; */
+     margin-left: 120px; 
+}
+.tableCol3 {
+  width: 450px;
+   height: 650px;
+    margin-left: 50px ;
+    
+}
+
+.col1Input1 {
+  border: 0px;
+   background: #f6f6f6;
+   font-size: 13px;
+}
+
+.col2Input1 {
+  border: 0px; 
+  background: #f6f6f6;
+  text-align:right;
+  font-size: 13px;
+}
+
+.col1Input {
+  border: 0px; 
+  background: #f6f6f6;
+   font-size: 9px;
+}
+
+.col2Input {
+  border: 0px; 
+  background: #f6f6f6;
+   font-size: 9px;
+   text-align:right; 
+   /* margin-right: 5px; */
+}
+.col2Input4 {
+  border: 0px; 
+  background: #f6f6f6;
+   font-size: 12px;
+   text-align:right; 
+   /* margin-right: 30px; */
+
+}
+
+
+.myTxt1 {
+  border: 0px; 
+  overflow: hidden;
+   background: #f6f6f6;
+    font-size: 11px;
+    margin-left:0px;
+}
+
+.tableData {
+  width: 300px;
+   margin-left: 0px;
+
+}
+
+.tableHead {
+  background: #dededc;
+  font-size:9px;
+  text-align:center;
+}
+
+.tableHeadInput {
+  background: #dededc;
+  font-size:9px;
+  text-align:center;
+  width:84px;
+  border:0px;
+}
+
+.myTxt2 {
+  border: 0px; 
+  overflow: hidden;
+   background: #f6f6f6;
+   font-size: 11px;
+   margin-left:0px;
+   color:#696a6a;
+}
